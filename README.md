@@ -1,4 +1,4 @@
-## [api.deriv.com](api.deriv.com) SolidJs UI implementation
+## [api.deriv.com](https://api.deriv.com) SolidJs UI implementation
 
 ## Disclaimer
 
